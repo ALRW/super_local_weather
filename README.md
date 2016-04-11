@@ -1,6 +1,6 @@
 Super Local Weather
 ===================
-A front end project using weather and geolocation api's to provide hyper-local weather information
+A front end project using weather and geolocation api's to provide hyper-local weather information. The project can be viewed easily on [Codepen](http://codepen.io/ALRW/pen/vGdmaw).
 
 ![overview](readmeimage.png)
 

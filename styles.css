@@ -1,0 +1,13 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  background: url(http://karenwildingeducation.co.uk/cd-content/uploads/images/Sunshine%20sky.jpg) no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+.jumbotron{
+  margin-top: 3em;
+  opacity: 0.8;
+  background-color: #DFECF6;
+}
